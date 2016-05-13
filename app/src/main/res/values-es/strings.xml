@@ -31,7 +31,7 @@
     <string name="enable_settings_summaries_title">Activar módulo</string>
     <string name="enable_settings_summaries">Muetra la información más importante directamente en la barra de notificaciones</string>
     <string name="fix_sound_notif_tile_title">Corregir "Sonidos &amp; notificaciones"</string>
-    <string name="fix_sound_notif_tile">Algunas ROMs combinan el menú de de sonidos y notificaciones. Activa esto para mostrar la información correctamente</string>
+    <string name="fix_sound_notif_tile">Algunas ROMs combinan el menú de sonidos y notificaciones. Activa esto para mostrar la información correctamente</string>
     
     <string name="disconnected">Desconectado</string>
     <string name="disabled">Desactivado</string>
@@ -75,7 +75,7 @@
     <string name="notification_header_qs_tiles_count">Ajustes rápidos a mostrar</string>
     <string name="notification_header_qs_tiles_count_monitor">Ajustes</string>
     <string name="enable_new_tile_click_behavior">Pulsación de ajustes de Android N tile click behavior</string>
-    <string name="enable_new_tile_click_behavior_summary">Pulsar un ajuste rápido lo activa o desactiva /ny pulsarlo en el panel lo expande</string>
+    <string name="enable_new_tile_click_behavior_summary">Pulsar un ajuste rápido lo activa o desactiva \ny pulsarlo en el panel lo expande</string>
     <string name="enable_large_first_row">Alargar la primera fila</string>
     <string name="hide_tuner_icon_title">Esconder icono de SystemUI Tuner</string>
     <string name="smaller_header_clock_title">Reloj pequeño</string>
@@ -93,6 +93,9 @@
     <string name="notification_dismiss_button">Mostrar \"BORRAR TODO\" en vez del icono de descartar</string>
     <string name="notification_allow_load_label_with_pm_title">Permitir cargar el nombre de la aplicación con PackageManager</string>
     <string name="notification_allow_load_label_with_pm">Puede causar problemas de rendimiento</string>
+    <string name="action_search">Buscar</string>
+    <string name="notification_blacklisted_apps_title">Deshabilitar apps</string>
+    <string name="notification_blacklisted_apps">No usar el estilo de notificaciones de Android N para las aplicaciones seleccionadas</string>
     <!-- /NOTIFICATIONS -->
     
     <!-- UPDATE -->
